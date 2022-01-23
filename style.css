@@ -7,7 +7,6 @@ animation: bgflash 5s infinite ease-in;
 0% {background-color: red;}
 14.2% {background-color: purple;}
 28.6% {background-color: blue;}
-42.6% {background-color: green;}
 56.8% {background-color: yellow;}
 71% {background-color: orange;}
 90% {background-color: red;}
