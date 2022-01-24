@@ -8,5 +8,5 @@ Wooper Party CSS code for clitoriz.cf profiles.
 # How to use
 Just copy and paste the code into the "css" field in your settings, obviously. There are however some things to consider:
 
-* As far as I know, I'm not able to change the alert-banner's text due to the way ClitorizWeb's HTML was built, so [the text in the middle will always default to whatever it currently says](https://i.imgur.com/lJb65wo.png).
+* ~~As far as I know, I'm not able to change the alert-banner's text due to the way ClitorizWeb's HTML was built~~ (nevermind, I've since figured that out), so [the text in the middle will always default to whatever it currently says](https://i.imgur.com/lJb65wo.png).
 * Your profile picture won't spin if your profile has the new header due to code changes between the old and new headers. This can easily be resolved by toggling "old header" on or changing ``.pfp{`` (line 62) to ``#profile-picture{``.
