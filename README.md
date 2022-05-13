@@ -1,5 +1,5 @@
 ## R.I.P. clitorizweb </3
-There wasn't much to that website either way, just a few social and customization features, but it was a fun experience either way. Messing around with profile CSS code in there is what got me into that sorta stuff. Thank you, goop.
+There wasn't much to that website either way, just a few social and customization features, but it was a fun experience either way. Messing around with profile CSS code in there is what got me into that sorta stuff. Thank you, goob.
 
 # clitorizweb_wooperparty
 Wooper Party CSS code for clitoriz.cf profiles.
